@@ -136,22 +136,20 @@ Built an automated reconciliation system with:
 ---
 
 ## 📁 Project Structure
-Invoice-Reconciliation-System/
-│
-├── README.md                                     # This file
-├── Invoice_Reconciliation_System.xlsm  # Main Excel file
-│
-├── screenshots/
-│   ├── dashboard.png                 # Dashboard view
-│   ├── invoice_data.png              # Invoice sheet with formulas
-│   ├── reconciliation_report.png     # Exception report
-│   └── user_guide.png                # User guide sheet
-    Documentation/
-│   ├── User_Guide.pdf                # End-user documentation│
-└── sample_data/
-├── sample_invoices. xlsm           # Sample invoice data
-├── sample_payments. xlsm           # Sample payment data
-└── sample_vendors. Xlsm            # Sample vendor data
+- Invoice-Reconciliation-System/
+     README.md                               
+     Invoice_Reconciliation_System.xlsm       
+- Screenshots/
+     dashboard.png                  
+     invoice_data.png             
+     reconciliation_report.png     
+     user_guide.png                
+- Documentation/
+     user_Guide.pdf                
+- Sample_data/
+    sample_invoices. xlsm          
+    sample_payments. xlsm
+    sample_vendors. Xlsm            
 ---
 
 ## 🛠️ Installation & Usage
