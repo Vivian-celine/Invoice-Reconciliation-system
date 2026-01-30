@@ -136,7 +136,7 @@ Built an automated reconciliation system with:
 ---
 ## 📁 Project Structure
 
-```
+```text
 Invoice-Reconciliation-System/
 │
 ├── README.md
@@ -155,7 +155,14 @@ Invoice-Reconciliation-System/
     ├── sample_invoices.xlsm
     ├── sample_payments.xlsm
     └── sample_vendors.xlsm
-           
+```
+
+## 📊 Dashboard Preview
+![Dashboard](excel_screenshots/dashboard.png)
+
+## 📄 Documentation
+[User Guide (PDF)](Documentation/User_Guide.pdf)
+
 ---
 
 ## 🔍 Key Files
