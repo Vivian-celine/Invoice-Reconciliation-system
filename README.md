@@ -134,27 +134,46 @@ Built an automated reconciliation system with:
 - 🎯 **Improved cash flow management** through priority flagging
 
 ---
-
 ## 📁 Project Structure
-- Invoice-Reconciliation-System/
-  
-     README.md                               
-     Invoice_Reconciliation_System.xlsm       
-- Screenshots/
-  
-     dashboard.png                  
-     invoice_data.png             
-     reconciliation_report.png     
-     user_guide.png                
-- Documentation/
-  
-     user_Guide.pdf                
-- Sample_data/
-  
-    sample_invoices. xlsm          
-    sample_payments. xlsm
-    sample_vendors. Xlsm            
+
+```
+Invoice-Reconciliation-System/
+│
+├── README.md
+├── Invoice_Reconciliation_System.xlsm
+│
+├── excel_screenshots/
+│   ├── dashboard.png
+│   ├── invoice_data.png
+│   ├── reconciliation_report.png
+│   └── user_guide.png
+│
+├── Documentation/
+│   └── User_Guide.pdf
+│
+└── Sample_Data/
+    ├── sample_invoices.xlsm
+    ├── sample_payments.xlsm
+    └── sample_vendors.xlsm
+           
 ---
+
+## 🔍 Key Files
+
+- 📊 **Main Excel System**  
+  [Invoice_Reconciliation_System.xlsm](Invoice_Reconciliation_System.xlsm)
+
+- 🖼 **Dashboard Preview**  
+  ![Dashboard](excel_screenshots/dashboard.png)
+
+- 📄 **User Documentation**  
+  [User Guide (PDF)](Documentation/User_Guide.pdf)
+
+- 📂 **Sample Data Files**  
+  - [Invoices](Sample_Data/sample_invoices.xlsm)  
+  - [Payments](Sample_Data/sample_payments.xlsm)  
+  - [Vendors](Sample_Data/sample_vendors.xlsm)
+
 
 ## 🛠️ Installation & Usage
 
