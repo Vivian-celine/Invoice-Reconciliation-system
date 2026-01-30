@@ -137,16 +137,20 @@ Built an automated reconciliation system with:
 
 ## 📁 Project Structure
 - Invoice-Reconciliation-System/
+  
      README.md                               
      Invoice_Reconciliation_System.xlsm       
 - Screenshots/
+  
      dashboard.png                  
      invoice_data.png             
      reconciliation_report.png     
      user_guide.png                
 - Documentation/
+  
      user_Guide.pdf                
 - Sample_data/
+  
     sample_invoices. xlsm          
     sample_payments. xlsm
     sample_vendors. Xlsm            
