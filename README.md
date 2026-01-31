@@ -174,7 +174,8 @@ Invoice-Reconciliation-System/
   ![Dashboard](excel_screenshots/dashboard.png)
 
 - 📄 **User Documentation**  
-  [User Guide (PDF)](Documentation/User_Guide.pdf)
+  - [User Guide](User_Guide.pdf)
+
 
 - 📂 **Sample Data Files**  
   - [Invoices](Sample_Data/sample_invoices.xlsm)  
