@@ -158,29 +158,26 @@ Invoice-Reconciliation-System/
 ```
 
 ## 📊 Dashboard Preview
-![Dashboard](excel_screenshots/dashboard.png)
+![Dashboard](Excel%20Screenshots/dashboard.png)
 
 ## 📄 Documentation
-[User Guide (PDF)](Documentation/User_Guide.pdf)
+[User Guide (PDF)](User%20guide.pdf)
 
 ---
 
 ## 🔍 Key Files
 
 - 📊 **Main Excel System**  
-  [Invoice_Reconciliation_System.xlsm](Invoice_Reconciliation_System.xlsm)
+  [Invoice Reconciliation System.xlsm](Invoice%20Reconciliation%20System.xlsm)
 
 - 🖼 **Dashboard Preview**  
-  ![Dashboard](excel_screenshots/dashboard.png)
+  ![Dashboard](Excel%20Screenshots/dashboard.png)
 
-- 📄 **User Documentation**  
-  - [User Guide](User_Guide.pdf)
+- 📂 **Data Files**  
+  - [Invoices](Invoice.xlsx)  
+  - [Payments](Payment.xlsx)  
+  - [Vendors](Vendor.xlsx)
 
-
-- 📂 **Sample Data Files**  
-  - [Invoices](Sample_Data/sample_invoices.xlsm)  
-  - [Payments](Sample_Data/sample_payments.xlsm)  
-  - [Vendors](Sample_Data/sample_vendors.xlsm)
 
 
 ## 🛠️ Installation & Usage
