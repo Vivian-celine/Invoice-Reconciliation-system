@@ -157,28 +157,38 @@ Invoice-Reconciliation-System/
     └── sample_vendors.xlsm
 ```
 
-## 📊 Dashboard Preview
-![Dashboard](Excel Screenshots/Dashboard.PNG)
+# 📊 Invoice Reconciliation System (Excel Project)
 
-## 📄 Documentation
-[User Guide (PDF)](User%20guide.pdf)
+## 🖼️ Dashboard Preview
+
+![Dashboard](excel_screenshots/dashboard.png)
+
+## 
+![Invoice](excel_screenshots/invoice_reconciliation.png)
+![User guide](excel_screenshots/userguide.png)
+![Reconciliation](excel_screenshots/reconciliation.png)
 
 ---
 
-## 🔍 Key Files
+## 📄 Documentation
 
-- 📊 **Main Excel System**  
-  [Invoice Reconciliation System.xlsm](Invoice%20Reconciliation%20System.xlsm)
+[Open User Guide (PDF)](https://drive.google.com/file/d/1yACKMsb5CB2VCAf7ZvMN7rQfneOa_MrE/view?usp=sharing)
 
-- 🖼 **Dashboard Preview**  
-  ![Dashboard](Excel%20Screenshots/dashboard.png)
+---
 
-- 📂 **Data Files**  
-  - [Invoices](Invoice.xlsx)  
-  - [Payments](Payment.xlsx)  
-  - [Vendors](Vendor.xlsx)
+## 📊 Main Excel System
 
+[Open Excel System](https://docs.google.com/spreadsheets/d/1I0jmqzYW8pNId-jXGK-3h2V5EWDbt5Qs/edit?usp=sharing&ouid=117224750797928370837&rtpof=true&sd=true)
 
+---
+
+## 📂 Data Files
+
+- [Invoices](https://docs.google.com/spreadsheets/d/1ivbpJ7GgFl53r6-c2a00eBoCn9zHzsvM/edit?usp=sharing&ouid=117224750797928370837&rtpof=true&sd=true)
+- [Payments](https://docs.google.com/spreadsheets/d/1FE7yNKvk-YsT8VX6WT5KcfBeOD927lP9/edit?usp=sharing&ouid=117224750797928370837&rtpof=true&sd=true)
+- [Vendors](https://docs.google.com/spreadsheets/d/1Yl7TBMBlZys8jIVbO3SH1hDdOFFmF48-/edit?usp=sharing&ouid=117224750797928370837&rtpof=true&sd=true)
+
+---
 
 ## 🛠️ Installation & Usage
 
