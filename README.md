@@ -158,7 +158,7 @@ Invoice-Reconciliation-System/
 ```
 
 ## 📊 Dashboard Preview
-![Dashboard](Excel%20Screenshots/dashboard.png)
+![Dashboard](Excel Screenshots/Dashboard.PNG)
 
 ## 📄 Documentation
 [User Guide (PDF)](User%20guide.pdf)
