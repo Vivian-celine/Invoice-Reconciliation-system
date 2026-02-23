@@ -164,7 +164,10 @@ Invoice-Reconciliation-System/
 ![Dashboard](excel_screenshots/Dashboard.PNG)
 
 ## 
-![Invoice](excel_screenshots/Invoice.png)
+
+![Invoice](excel_screenshots/Invoice.PNG)
+
+##
 ![User guide](excel_screenshots/Userguide.png)
 ![Reconciliation](excel_screenshots/Reconciliation.png)
 
