@@ -161,7 +161,7 @@ Invoice-Reconciliation-System/
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](excel_screenshots/Dashboard.png)
+![Dashboard](excel_screenshots/Dashboard.PNG)
 
 ## 
 ![Invoice](excel_screenshots/Invoice.png)
