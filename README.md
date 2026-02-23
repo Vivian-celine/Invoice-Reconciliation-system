@@ -169,7 +169,7 @@ Invoice-Reconciliation-System/
 
 ## User Guide
 
-![User guide](excel_screenshots/Userguide.png)
+![User guide](excel_screenshots/User%20Guide.PNG)
 
 ## Reconciliation
 
@@ -244,19 +244,6 @@ Download: Invoice_Reconciliation_System.xlsm
 1. Go to Reconciliation_Report sheet
 2. File > Save As > PDF
 3. Save as: `Reconciliation_Report_[DATE].pdf`
-
----
-
-## 📸 Screenshots
-
-### Dashboard with Live KPIs
-![Dashboard](screenshots/dashboard.png)
-
-### Automated Matching Results
-![Invoice Data](screenshots/invoice_data.png)
-
-### Exception Report with Priority Alerts
-![Reconciliation Report](screenshots/reconciliation_report.png)
 
 ---
 
