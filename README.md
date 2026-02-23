@@ -159,17 +159,21 @@ Invoice-Reconciliation-System/
 
 # 📊 Invoice Reconciliation System (Excel Project)
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](excel_screenshots/Dashboard.PNG)
 
-## 
+## Invoice
 
 ![Invoice](excel_screenshots/Invoice.PNG)
 
-##
+## User Guide
+
 ![User guide](excel_screenshots/Userguide.png)
-![Reconciliation](excel_screenshots/Reconciliation.png)
+
+## Reconciliation
+
+![Reconciliation](excel_screenshots/Reconciliation.PNG)
 
 ---
 
